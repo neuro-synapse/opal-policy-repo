@@ -41,6 +41,13 @@
         "country": "US",
         "ip": "8.8.8.8"
       }
+    },
+    "billwang": {
+      "roles": ["employee", "billing"],
+      "location": {
+        "country": "US",
+        "ip": "8.8.8.8"
+      }
     }
   },
   "role_permissions": {
