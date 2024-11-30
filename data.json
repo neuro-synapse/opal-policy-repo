@@ -34,6 +34,13 @@
         "country": "US",
         "ip": "8.8.8.8"
       }
+    },
+    "jthomas": {
+      "roles": ["employee"],
+      "location": {
+        "country": "US",
+        "ip": "8.8.8.8"
+      }
     }
   },
   "role_permissions": {
