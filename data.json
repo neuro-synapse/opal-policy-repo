@@ -14,7 +14,7 @@
         "ip": "8.8.8.8"
       }
     },
-     "sunil": {
+    "sunil": {
       "roles": ["guest"],
       "location": {
         "country": "US",
@@ -23,6 +23,13 @@
     },
     "eve": {
       "roles": ["customer"],
+      "location": {
+        "country": "US",
+        "ip": "8.8.8.8"
+      }
+    },
+    "hboma": {
+      "roles": ["guest", "customer"],
       "location": {
         "country": "US",
         "ip": "8.8.8.8"
